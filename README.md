@@ -20,7 +20,12 @@ in Apopka, Florida. 4.9 stars across 34 Google reviews.
 
 ## Design
 
-Identity: **the measured drawing** — a finish carpenter's own documents.
+Identity: **the drawing sheet** — a finish carpenter's own document set.
+A title-block rail runs down the left edge carrying the brand, a numbered
+sheet index, the contact block and the open indicator; the drawing area to its
+right is a run of numbered sheets (A-01 … A-05.7) separated by 45-degree
+section hatch. Figures are framed in hairlines and captioned "Fig. n" rather
+than bled full-width.
 Walnut `#1A1512`, bone `#EFEAE1`, brass `#B08637`, with linen `#F1EDE6` panels
 for contrast sections. Fraunces (variable, `opsz`/`SOFT`/`WONK` axes set per
 role) for display over Karla for text. Dark-first, since the work is the bright
